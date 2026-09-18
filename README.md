@@ -117,6 +117,7 @@ npm install && npm start
 ## 👤 Author
 
 **Pravin**
+- Email: [kumar02pravin@gmail.com](mailto:kumar02pravin@gmail.com)
 - GitHub: [@piku020505](https://github.com/piku020505)
 
 ## 📄 License
